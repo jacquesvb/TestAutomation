@@ -1,4 +1,4 @@
-# Appium Example for Windows
+# Getting Started Writing Tests with Appium and Cucumber
 ## Requirements
 ***
 
